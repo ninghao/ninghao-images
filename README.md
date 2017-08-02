@@ -1,0 +1,1 @@
+- weixin/app/landscape.png — Steve Lianardo
