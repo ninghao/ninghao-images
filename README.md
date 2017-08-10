@@ -1,1 +1,4 @@
 - weixin/app/landscape.png — Steve Lianardo
+- weixin/app/demo-1.jpg — Timothy Poulton
+- weixin/app/demo-2.jpg — Marianne Lim
+- weixin/app/demo-3.jpg — Rebecca North
